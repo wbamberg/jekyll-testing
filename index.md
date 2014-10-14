@@ -1,4 +1,6 @@
 ---
+layout: default
+title: coding with spice
 ---
 
 {{ site.baseurl }}/stylesheets/styles.css
