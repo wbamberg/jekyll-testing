@@ -1,6 +1,8 @@
 ---
 ---
 
+{{ site.baseurl }}/stylesheets/styles.css
+
 ## this is a test ##
 
 ### this is another test ###
